@@ -1,0 +1,32 @@
+# bytecodes
+*.class
+
+# TestContainers
+*.db
+
+# Compiler, settings, logging or dep management folder
+.gradle/
+build/
+target/
+.project
+.classpath
+.settings/
+*.log
+
+# maven version update
+**/pom.xml.versionsBackup
+
+# Java Compression Package
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+hs_err_pid*
+.DS_Store
+**/.checkstyle
